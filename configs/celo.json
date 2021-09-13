@@ -1,7 +1,14 @@
 {
   "index_name": "celo",
   "start_urls": [
-    "https://docs.celo.org"
+    "https://docs.celo.org",
+    "https://docs.celo.org/overview",
+    "https://docs.celo.org/celo-owner-guide/quick-start",
+    "https://docs.celo.org/validator-guide/overview",
+    "https://docs.celo.org/developer-guide/overview",
+    "https://docs.celo.org/command-line-interface/introduction",
+    "https://docs.celo.org/celo-codebase/protocol",
+    "https://docs.celo.org/celo-codebase/wallet"
   ],
   "sitemap_urls": [
     "https://docs.celo.org/sitemap.xml"
